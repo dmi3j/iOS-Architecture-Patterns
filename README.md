@@ -3,6 +3,8 @@ iOS Architecture Patterns (SSTD, MVC, MVVM, VIPER)
 
 Presentation and sample code for MDL Meetup #5 Talk (https://www.facebook.com/events/1780009742251275/)
 
+[![MDL#5 Talk](http://img.youtube.com/vi/wUCM8gxuSwk/0.jpg)](http://www.youtube.com/watch?v=wUCM8gxuSwk)
+
 ##References
 
 * [Architecting iOS Apps with VIPER ](https://www.objc.io/issues/13-architecture/viper/)
