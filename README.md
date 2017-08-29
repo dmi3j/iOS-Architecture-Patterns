@@ -5,7 +5,7 @@ Presentation and sample code for MDL Meetup #5 Talk (https://www.facebook.com/ev
 
 [![MDL#5 Talk](http://img.youtube.com/vi/wUCM8gxuSwk/0.jpg)](http://www.youtube.com/watch?v=wUCM8gxuSwk)
 
-##References
+## References
 
 * [Architecting iOS Apps with VIPER ](https://www.objc.io/issues/13-architecture/viper/)
 * [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
